@@ -10,10 +10,10 @@ This project features an interactive Power BI dashboard designed to analyze supp
 ### City Analysis: Compares OT% and IF% across cities against targets.
 ### Supply Chain Insights: Visualizes average order cycle time (0.42 days) and average delay (1.69 days), with a breakdown of delay distribution (e.g., 6.4K orders delayed by 1 day).
 
-SKILLS DEMONSTRATED
+## SKILLS DEMONSTRATED
 
-SUPPLY CHAIN DOMAIN KNOWLEDGE
-DATA MODELLING
-DATA VISUALIZATION
-POWER BI DEVELOPMENT
+### SUPPLY CHAIN DOMAIN KNOWLEDGE
+### DATA MODELLING
+### DATA VISUALIZATION
+### POWER BI DEVELOPMENT
 
